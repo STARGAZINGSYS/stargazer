@@ -1,4 +1,4 @@
-# stargazer
+# readme.mb
 hi ! we're the stargazing system! :]
 
 - we're usually pretty active on ponytown but there' may be bursts of inactivity because we have responsibilities
